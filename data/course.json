@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Structural Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Virology"
+    ],
+    [
+      "Engineering",
+      "Nanotechnology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0f77a769-7fb0-d282-f301-5f140c837b6b",
+      "44fb0039-56de-ec36-9c77-951094e5a44d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Nano-life: An Introduction to Virus Structure and Assembly",
+  "course_description": "Watson and Crick noted that the size of a viral genome was insufficient to encode a protein large enough to encapsidate it and reasoned, therefore that a virus shell must be composed of multiple, but identical subunits. Today, high resolution structures of virus capsids reveal the basis of this genetic economy as a highly symmetrical structure, much like a geodesic dome composed of protein subunits. Crystallographic structures and cryo-electron microscopy reconstructions combined with molecular data are beginning to reveal how these nano-structures are built. Topics covered in the course will include basic principles of virus structure and symmetry, capsid assembly, strategies for enclosing nucleic acid, proteins involved in entry and exit, and the life cycles of well understood pathogens such as HIV, influenza, polio, and Herpes. A review of cutting edge structural methods is also covered.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.340",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
